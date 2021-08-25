@@ -1,0 +1,23 @@
+{
+  "name": "plato",
+  "version": "0.0.1",
+  "description": "A library for generating boilerplate from schemata",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viliaapro/plato.git"
+  },
+  "keywords": [
+    "rdf",
+    "schema"
+  ],
+  "author": "Vili Aapro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viliaapro/plato/issues"
+  },
+  "homepage": "https://github.com/viliaapro/plato#readme"
+}
